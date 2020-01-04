@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#09C7AC</color>
+    <color name="colorAccent">#479DC5</color>
+<!--    <color name="colorAccent">#D81B60</color>-->
+    <color name="thank_you">#479DC5</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="colorGradientStart">#29B6F6</color>
+    <color name="colorGradientCenter">#9CCC65</color>
+    <color name="colorGradientEnd">#FFEE58</color>
+
+    <color name="white">#FFFFFF</color>
+</resources>
